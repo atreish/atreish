@@ -12,13 +12,17 @@ Hey! I'm Atreish (Ah-tree-shh) and I am a Data Scientist based in New York City.
 - 💬 Ask me about Numerical Methods and Machine Learning
 - 📫 How to reach me: atreishramlakhan@gmail.com
 
+## Connect with me  
+
+<div align="Left">
+<a href="https://github.com/atreish" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/atreish/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+
+
 ![Screenshot](py.png)
 
- <!--- 
-![Screenshot](py1.png)
-![Screenshot](jupy.png)
-![Screenshot](r.png)
-![Screenshot](slack.png)
-![Screenshot](sql.webp)
- 
-just --->
