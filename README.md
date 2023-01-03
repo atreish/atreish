@@ -21,7 +21,7 @@ Hey! I'm Atreish (Ah-tree-shh) and I am a Data Scientist based in New York City.
 <a href="https://linkedin.com/in/atreish/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
-<a href="https://linkedin.com/in/atreish](https://www.instagram.com/atreish14/" target="_blank">
+<a href="https://www.instagram.com/atreish14/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
   
 </a>
