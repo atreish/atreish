@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**atreish/atreish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hey! I'm Atreish and I am a Data Scientist based in New York City. I have experience in Applied Mathematics and Python programming. 
 
 ## | Applied Mathematics | Data Science | Machine Learning | Deep Learning | Artificial Intelligence |
@@ -14,4 +11,4 @@ Hey! I'm Atreish and I am a Data Scientist based in New York City. I have experi
 - 💬 Ask me about Numerical Methods and Machine Learning
 - 📫 How to reach me: atreishramlakhan@gmail.com
 
--->
+
