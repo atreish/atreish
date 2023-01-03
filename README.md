@@ -13,4 +13,4 @@ Hey! I'm Atreish (Ah-tree-shh) and I am a Data Scientist based in New York City.
 
 
 
-![Screenshot](py.png)
+![Screenshot](py1.png)
