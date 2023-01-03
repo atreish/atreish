@@ -13,7 +13,4 @@ Hey! I'm Atreish (Ah-tree-shh) and I am a Data Scientist based in New York City.
 
 
 
-<p align="center">
-  <img src="[your_relative_path_here](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/atreish/DAV-6150-Data-Science/blob/main/Python-Transparent-PNG.png)" width="350" title="Some tools I'm good at">
-  
-</p>
+![Screenshot](py.png)
