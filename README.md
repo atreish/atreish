@@ -2,6 +2,9 @@
 
 Hey! I'm Atreish (Ah-tree-shh) and I am a Data Scientist based in New York City. I have experience in Applied Mathematics and Python programming. 
 
+### <div align="center">| Mathematics | Data Science | Machine Learning | Deep Learning | Artificial Intelligence |</div> 
+
+
 ## | Mathematics | Data Science | Machine Learning | Deep Learning | Artificial Intelligence |
 
 - 🔭 I’m currently working on organizing my projects for Githib 🤣 
