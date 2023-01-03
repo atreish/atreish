@@ -12,7 +12,7 @@ Hey! I'm Atreish (Ah-tree-shh) and I am a Data Scientist based in New York City.
 - 💬 Ask me about Numerical Methods and Machine Learning
 - 📫 How to reach me: atreishramlakhan@gmail.com
 
-## Connect with me  
+## Let's Link Up
 
 <div align="Left">
 <a href="https://github.com/atreish" target="_blank">
