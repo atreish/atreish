@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Hey! I'm Atreish (Uh-tri-shh) and I am a Data Scientist based in New York City. I have experience in Applied Mathematics and Python programming. 
+Hey! I'm Atreish (Uh-tri-shh) and I am a Data Scientist based in New York City. I have experience in Applied Mathematics and Python programming. <a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" />
 
 ### <div align="center">| Mathematics | Data Science | Machine Learning | Deep Learning | Artificial Intelligence |</div> 
 
@@ -23,7 +24,7 @@ Hey! I'm Atreish (Uh-tri-shh) and I am a Data Scientist based in New York City. 
 
 <a href="https://www.instagram.com/atreish14/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
-  
+ 
 </a>
 </div>  
 
