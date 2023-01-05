@@ -1,7 +1,22 @@
 ### Hi there 👋
 
-Hey! I'm Atreish (Uh-tri-shh) and I am a Data Scientist based in New York City. I have experience in Applied Mathematics and Python programming. <a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+Hey! I'm Atreish (Uh-tri-shh) and I am a Data Scientist based in New York City. I have experience in Applied Mathematics and Python programming. 
+
+ <div align="center">
+<a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
 <img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" />
+<a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" />
+</a>
+</div> 
 
 ### <div align="center">| Mathematics | Data Science | Machine Learning | Deep Learning | Artificial Intelligence |</div> 
 
@@ -13,6 +28,22 @@ Hey! I'm Atreish (Uh-tri-shh) and I am a Data Scientist based in New York City. 
 - 💬 Ask me about Numerical Methods and Machine Learning
 - 📫 How to reach me: atreishramlakhan@gmail.com
 
+ <div align="center">
+<a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" />
+<a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" />
+</a>
+</div> 
+ 
 ## Connect with me
 
 <div align="center">
@@ -47,3 +78,4 @@ Hey! I'm Atreish (Uh-tri-shh) and I am a Data Scientist based in New York City. 
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
+ 
