@@ -2,47 +2,20 @@
 
 Hey! I'm Atreish (Uh-tri-shh) and I am a Data Scientist based in New York City. I have experience in Applied Mathematics and Python programming. 
 
- <div align="center">
-<a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" />
-<a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" />
-</a>
-</div> 
+ 
 
 ### <div align="center">| Mathematics | Data Science | Machine Learning | Deep Learning | Artificial Intelligence |</div> 
 
 
-- 🔭 I’m currently working on organizing my projects & publicantions for Githib 🤣 
+- 🔭 I’m currently working on organizing my projects & publications for Github 🤣 
 - 🌱 I’m currently reviewing Linear Algebra 
 - 👯 I’m looking to collaborate on Github Repo for AI Mathematics Basics Notebooks
-- 🤔 I’m looking for help with Data Scientist / Machine Learning Engineering Job in New York City. Check out my [RESUME](https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link)
+- 🤔 I’m looking for help with Data Scientist / Machine Learning Engineering Job in New York City. Check out my <a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
+<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" />(https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link)
 - 💬 Ask me about Numerical Methods and Machine Learning
 - 📫 How to reach me: atreishramlakhan@gmail.com
 
- <div align="center">
-<a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" />
-<a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" /><a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
-<img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" />
-</a>
-</div> 
+
  
 ## Connect with me
 
