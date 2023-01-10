@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey! I'm Atreish (Uh-tri-shh) and I am a Data Scientist based in New York City. I have experience in Applied Mathematics and Python programming. 
+Hey! I'm Atreish and I am a Data Scientist based in New York City. I have experience in Applied Mathematics and Python programming. 
 
  
 
