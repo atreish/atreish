@@ -7,11 +7,11 @@ Hey! I'm Atreish (Uh-tri-shh) and I am a Data Scientist based in New York City. 
 ### <div align="center">| Mathematics | Data Science | Machine Learning | Deep Learning | Artificial Intelligence |</div> 
 
 
-- 🔭 I’m currently working on organizing my projects & publications for Github 🤣 
+- 🔭 I’m currently working on organizing my projects for Github 🤣 
 - 🌱 I’m currently reviewing Linear Algebra 
-- 👯 I’m looking to collaborate on Github Repo for AI Mathematics Basics Notebooks
-- 🤔 I’m looking for help with Data Scientist / Machine Learning Engineering Job in New York City.
-- 💬 Ask me about Numerical Methods and Machine Learning
+- 👯 I’m looking to collaborate on Github Repository for responses to LeetCode responses.
+- 🤔 I’m looking for help with landing a Data Scientist / Machine Learning Engineering job in New York City.
+- 💬 Ask me about Machine Learning & Envorinmental Issues
 - 📫 How to reach me: atreishramlakhan@gmail.com
 
 Check out my <a href="https://drive.google.com/file/d/1pTx5gQ_eAedT_VXcT0VjrZRW1HG6mxZI/view?usp=share_link" target="_blank">
