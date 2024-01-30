@@ -11,10 +11,10 @@ Hey! I'm Atreish and I am a Data Scientist based in New York City. I have experi
 - 🌱 I’m currently reviewing Python coding techniques.
 - 👯 I’m looking to collaborate on Github Repository for responses to LeetCode Top Interview Questions.
 - 🤔 I’m looking for help with landing a Data Scientist / Machine Learning Engineering job in New York City.
-- 💬 Ask me about Machine Learning & Envorinmental Issues
+- 💬 Ask me about Machine Learning 
 - 📫 How to reach me: atreishramlakhan@gmail.com
 
-Check out my <a href="[https://drive.google.com/file/d/1kLT6uKJCzKUz_0r-GD7SFAXoGsqw75mY/view?usp=sharing]" target="_blank">
+Check out my <a href="https://drive.google.com/file/d/1kLT6uKJCzKUz_0r-GD7SFAXoGsqw75mY/view?usp=sharing" target="_blank">
 <img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" />
  
 ## Connect with me
