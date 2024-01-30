@@ -14,10 +14,8 @@ Hey! I'm Atreish and I am a Data Scientist based in New York City. I have experi
 - 💬 Ask me about Machine Learning & Envorinmental Issues
 - 📫 How to reach me: atreishramlakhan@gmail.com
 
-Check out my <a href="[https://drive.google.com/file/d/1kLT6uKJCzKUz_0r-GD7SFAXoGsqw75mY/view?usp=sharing](https://drive.google.com/file/d/1Wn-Mf6wHu9Qm7IDgxtvX6HtNGrwbsluu/view?usp=drive_link)" target="_blank">
+Check out my <a href="[https://drive.google.com/file/d/1kLT6uKJCzKUz_0r-GD7SFAXoGsqw75mY/view?usp=sharing]" target="_blank">
 <img src=https://img.shields.io/badge/-RESUME-brightgreen style="style=for-the-badge&logo=appveyor" />
-
-
  
 ## Connect with me
 
