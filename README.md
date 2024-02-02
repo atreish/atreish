@@ -27,14 +27,7 @@ Check out my <a href="https://drive.google.com/file/d/1Wn-Mf6wHu9Qm7IDgxtvX6HtNG
 <a href="https://linkedin.com/in/atreish/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 
-<a href="https://www.instagram.com/atreish14/" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
 
- </a>
-<a href="https://www.kaggle.com/atreish" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a> 
- 
 </a>
 </div>  
 
